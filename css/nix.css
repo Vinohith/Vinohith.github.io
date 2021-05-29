@@ -14,7 +14,9 @@ body {
 }
 
 img {
- 	max-width: 100%;
+ 	width:100rem;
+ 	height:auto;
+ 	border-radius:20%;
 }
 
 .flex-wrapper {
@@ -26,7 +28,7 @@ img {
 }
 
 #green-terminal {
-	color: #00ff00;
+	color: #00FF00;
 }
 
 .font-header {
@@ -55,6 +57,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .user-description {
+	/*font-family: 'Open Sans', sans-serif;*/
+	font-family: 'Inconsolata', monospace;
 	border-style: solid;
 	border-width: 5px;
 	border-color: #292929;
@@ -152,4 +156,8 @@ div p {
 
 td {
 	margin: 0 20px 0 20px;
+}
+
+.navbar-custom {
+    background-color: #000000;
 }
