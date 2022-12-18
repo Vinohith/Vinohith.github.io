@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 29 May 2021 12:35:25 +0530</lastBuildDate><atom:link href="https://vinohith.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://vinohith.github.io/about/</link>
+      <pubDate>Sun, 30 May 2021 08:27:43 +0530</pubDate>
+      
+      <guid>https://vinohith.github.io/about/</guid>
+      <description>This is just to test about. This is a new line I am adding right now.</description>
+    </item>
+    
+    <item>
       <title>Testpage</title>
       <link>https://vinohith.github.io/posts/2021/may/testpage/</link>
       <pubDate>Sat, 29 May 2021 12:35:25 +0530</pubDate>
