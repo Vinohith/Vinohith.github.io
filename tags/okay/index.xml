@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>okay on Vinohith&#39;s Site</title>
+    <link>https://vinohith.github.io/tags/okay/</link>
+    <description>Recent content in okay on Vinohith&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 May 2021 12:35:25 +0530</lastBuildDate><atom:link href="https://vinohith.github.io/tags/okay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testpage</title>
+      <link>https://vinohith.github.io/posts/2021/may/testpage/</link>
+      <pubDate>Sat, 29 May 2021 12:35:25 +0530</pubDate>
+      
+      <guid>https://vinohith.github.io/posts/2021/may/testpage/</guid>
+      <description>This is the first test post. This is to just test the indentation and justification of the content of the post both on the mobile device and laptop screen. This will also act as a test for the visual experience of the post on both the platforms. Again, this is just a test.
+This is just a test for a new paragraph.</description>
+    </item>
+    
+  </channel>
+</rss>

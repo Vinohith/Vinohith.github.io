@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Vinohith&#39;s Site</title>
+    <link>https://vinohith.github.io/tags/</link>
+    <description>Recent content in Tags on Vinohith&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 May 2021 12:35:25 +0530</lastBuildDate><atom:link href="https://vinohith.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>list</title>
+      <link>https://vinohith.github.io/tags/list/</link>
+      <pubDate>Sat, 29 May 2021 12:35:25 +0530</pubDate>
+      
+      <guid>https://vinohith.github.io/tags/list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>okay</title>
+      <link>https://vinohith.github.io/tags/okay/</link>
+      <pubDate>Sat, 29 May 2021 12:35:25 +0530</pubDate>
+      
+      <guid>https://vinohith.github.io/tags/okay/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
